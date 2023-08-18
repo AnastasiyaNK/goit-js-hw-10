@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.cat-info {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 0 5px;
+}
+
+.breed-select {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.img {
+  width: 400px;
+  height: 100%;
+}
+.name {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1;
+  text-align: center;
+}
+.descrip {
+  max-width: 400px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  justify-content: center;
+  text-align: center;
+}
+.temperament {
+  max-width: 400px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  justify-content: center;
+  text-align: center;
+}
